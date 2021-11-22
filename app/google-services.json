@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934489874901",
+    "project_id": "evoliteperu-2021",
+    "storage_bucket": "evoliteperu-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934489874901:android:1b77e71e0e2226f84e1d5c",
+        "android_client_info": {
+          "package_name": "com.mapsalud.evoliteperu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934489874901-7h7sa6af9a2v39piu9ik8a3f0u5e23qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YQEiEa6kanfnnjGEJuCUtdyeWwRiW2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934489874901-7h7sa6af9a2v39piu9ik8a3f0u5e23qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
